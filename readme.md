@@ -5,10 +5,13 @@ This test uses [webpack](http://webpack.github.io/) for building/execution,
 [react-jss](https://github.com/cssinjs/react-jss) to package up dynamic addition/subtraction of `<style>` tags containing component styles.
 
 ## To Run...
-This will launch `webpack-dev-server` hosted at `localhost:8080`
+
 ```sh
+npm install
 npm start
 ```
+This will launch `webpack-dev-server` hosted at `localhost:8080`
+
 Then open a web-browser pointed to `localhost:8080`
 
 ## Additional Notes
