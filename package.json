@@ -33,7 +33,7 @@
     "react-jss": "^3.0.1",
     "react-overlays": "^0.6.6",
     "style-loader": "^0.13.1",
-    "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.15.2"
+    "webpack": "^4.0.0",
+    "webpack-dev-server": "^4.0.0"
   }
 }
